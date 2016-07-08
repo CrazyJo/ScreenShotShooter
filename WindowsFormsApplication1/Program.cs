@@ -52,7 +52,6 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
-	    // 123
             using (var mutex = new Mutex(false, "Screen Shot Shooter-{8F6F0AC4-B9A1-45fd-A8CF-72F04E6BDE8F}"))
             {
                 if (!mutex.WaitOne(TimeSpan.FromSeconds(3), false)) return;
