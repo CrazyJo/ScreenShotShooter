@@ -1,7 +1,0 @@
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Release\ClassLibrary1.Properties.Resources.resources
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Release\ClassLibrary1.csproj.GenerateResource.Cache
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
-C:\Users\Philip\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
