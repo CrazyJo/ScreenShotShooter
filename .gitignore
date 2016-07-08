@@ -2,6 +2,7 @@
 ## Eclipse
 #################
 
+*.gitignore
 *.pydevproject
 .project
 .metadata
