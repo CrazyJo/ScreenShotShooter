@@ -1,0 +1,26 @@
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ScreenCaptureLib.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ScreenCaptureLib.Properties.Resources.resources
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ScreenCaptureLib.csproj.GenerateResource.Cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\bin\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\bin\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.Properties.Resources.resources
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.csproj.GenerateResource.Cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\Branch 21.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\visual studio 2015\Projects\Branch 21.06\ClassLibrary1\bin\Debug\HelpersLib.dll
+C:\Users\Philip\Documents\visual studio 2015\Projects\Branch 21.06\ClassLibrary1\bin\Debug\HelpersLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\bin\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\bin\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\bin\Debug\HelpersLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\bin\Debug\HelpersLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.Properties.Resources.resources
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.csproj.GenerateResource.Cache
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.dll
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\obj\Debug\ScreenCaptureLib.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\ScreenShotShooter\Branch 29.06\ClassLibrary1\bin\Debug\ru\HelpersLib.resources.dll
